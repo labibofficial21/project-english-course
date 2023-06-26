@@ -1,0 +1,17 @@
+Pada file ini hanya bisa dibaca menggunakan XAMPP dan PHP My Admin
+
+Untuk Database ada di Folder "DATABASE"
+
+Bagi Kk yang mau melihat lewat link, bisa lewat link dibawah ini :
+
+
+http://kamarbahasainggris.epizy.com/
+
+
+Ketua Tim : Muhammad Labib Mu'tashim
+Anggota	  : Sekar Ayu Damayanti
+
+Mahasiswa Universitas Pembangunan Nasional Veteran Jakarta
+
+Terima Kasih :)
+
